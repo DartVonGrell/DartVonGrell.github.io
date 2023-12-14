@@ -1,0 +1,15 @@
+
+/* █ ThinScroll */
+.ThinScroll {scrollbar-width:thin; scrollbar-color:#333 rgba(0,0,0,0); /* Firefox */
+/* -ms-overflow-style: none; */ } /* IE and Edge */
+.ThinScroll::-webkit-scrollbar { width: 5px; height: 5px; } /* For Chrome, Safari and Opera */ /* Width */
+.ThinScroll::-webkit-scrollbar-track { } /* Track */
+.ThinScroll::-webkit-scrollbar-thumb { background: #333; border-radius:10px; } /* Handle */
+.ThinScroll::-webkit-scrollbar-thumb:hover { background: #fff; } /* Handle on hover */
+/* https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp */
+
+/* █ NoSelect */
+.NoSelect {user-select:none;}
+.NoSelect * {user-select:none;}
+.NoSelect > * {user-select:none;}
+

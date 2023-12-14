@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Generator: Adobe Fireworks 10, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id="download.fw-Page%201" viewBox="0 0 512 512" style="background-color:#ffffff00" version="1.1"
+	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+	x="0px" y="0px" width="512px" height="512px"
+>
+	<defs>
+		<linearGradient id="gradient1" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop stop-color="#2dcdc4" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#03b8fb" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient2" x1="2.521%" y1="106.3559%" x2="124.7899%" y2="79.661%">
+			<stop stop-color="#2dcdc4" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#03b8fb" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+	</defs>
+	<path d="M 118 397.5904 C 118 416.0423 132.9993 431 151.5025 431 L 354.4975 431 C 373.0007 431 388 416.0423 388 397.5904 C 388 379.1385 373.0007 364.1807 354.4975 364.1807 L 151.5025 364.1807 C 132.9993 364.1807 118 379.1385 118 397.5904 Z" fill="url(#gradient1)"/>
+	<path d="M 127.0709 167.4173 C 114.9524 179.519 114.98 199.1028 127.1324 211.1597 L 230.0423 313.2599 C 236.3661 319.534 244.7269 322.5316 253 322.2602 C 261.273 322.5316 269.6339 319.534 275.9577 313.2599 L 378.8676 211.1597 C 391.0201 199.1028 391.0476 179.519 378.9291 167.4173 C 366.8106 155.3155 347.1357 155.2791 334.9831 167.336 L 282.5752 219.3301 L 282.5742 85.9624 C 282.5742 68.8621 268.6929 55 251.569 55 C 234.445 55 220.5637 68.8621 220.5637 85.9624 L 220.5659 216.4931 L 171.0168 167.336 C 158.8643 155.2791 139.1894 155.3155 127.0709 167.4173 Z" fill="url(#gradient2)"/>
+</svg>

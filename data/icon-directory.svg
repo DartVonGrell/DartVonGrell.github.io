@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L16 0L16 16L0 16L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Directory-Icon">
+    <path d="M0 0L16 0L16 16L0 16L0 0Z" id="Background" fill="#FFFFFF" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M2.5 2C1.67188 2 1 2.67188 1 3.5L1 12.5C1 13.3281 1.67188 14 2.5 14L13.5 14C14.3281 14 15 13.3281 15 12.5L15 5.5C15 4.67188 14.3281 4 13.5 4L6.79688 4L6.14453 2.78906C5.88281 2.30078 5.37891 2 4.82422 2L2.5 2Z" id="Shape" fill="#FFFFFF" stroke="none" />
+    </g>
+  </g>
+</svg>

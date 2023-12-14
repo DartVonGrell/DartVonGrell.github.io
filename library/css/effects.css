@@ -1,0 +1,20 @@
+
+/* █ FxSpin360 */
+.FxSpin360 > img {-webkit-transition: -webkit-transform 1s;}
+.FxSpin360:hover > img {-webkit-transform: rotate(360deg) translateZ(0);}
+/* This has an issue where the spinning elements are drawn on a higher Z layer */
+
+
+/* █ FxFade */
+.FxFade {transition: 0.3s; background-color: rgba(255,255,255,0.0);}
+.FxFade:hover {background-color: rgba(255,255,255,0.4);}
+
+
+/* █ FxFadeRound */
+.FxFadeRound {transition: 0.3s; background-color: rgba(255,255,255,0.0);}
+.FxFadeRound:hover {background-color: rgba(255,255,255,0.4); border-radius:40px; color:rgba(255,255,255,1.0);}
+
+
+
+
+

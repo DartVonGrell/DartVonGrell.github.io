@@ -1,0 +1,46 @@
+/*███ PRESETS ███*/
+
+
+/*█ DESKTOP LIST █*/
+.DesktopList { /*Dropdown Menu*/   
+	display:list;
+ 	/* background-color:rgba(32,32,32,0.3); */
+	min-width:180px; /*Ensures the dropdown is larger than the initial button*/ }
+
+.DesktopList li {width:100%; display:flex; font-size:19px;} /* Inside Dropdown Menu*/
+
+.DesktopList li a:hover {
+	cursor:pointer;
+	background-color:rgba(200,200,200,0.3);} /*Hover over Inside Dropdown Menu*/
+.DesktopList li a {
+	display:flex;
+	padding:10px;
+	flex-grow:1;
+	width:100%;
+	height:100%;
+	height:16px;}
+.DesktopList li a,visited{ /*Link hitbox*/
+	color:#CCC;
+	display:flex;
+	width: 100%;
+	flex-grow:1;
+	/* justify-content: center; */
+	align-items: center; /* FLEX + THIS = VERTICAL ALIGN */
+	text-decoration:none;}
+
+/*█ ICON32 █*/
+.Icon32 {width:32px; height:32px; pointer-events:none;}
+
+/*█ ICON28 █*/
+.Icon28 {width:28px; height:28px; pointer-events:none;}
+
+/*█ ICON24 █*/
+.Icon24 {width:24px; height:24px; pointer-events:none;}
+
+/*█ ICON16 █*/
+.Icon16 {width:16px; height:16px; pointer-events:none;}
+
+
+
+
+
